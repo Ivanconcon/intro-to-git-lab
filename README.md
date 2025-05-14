@@ -14,11 +14,11 @@ Students will learn version control concepts, essential Git commands, GitHub rep
 - **Version Control**: Tracks changes to your code over time.
 - **Git**: A tool used for managing code changes.
 - **Important Git Commands**:
-  - `git init`: Initialize a new Git repo.
+  - `git init`: Initialize a new Git repository.
   - `git add`: Stage changes.
   - `git commit`: Save changes.
-  - `git push`: Upload changes to a remote repo.
-  - `git pull`: Fetch changes from a remote repo.
+  - `git push`: Upload changes to a remote repository.
+  - `git pull`: Fetch changes from a remote repository.
 
 ## How to Run This Project
 1. Clone the repository:
