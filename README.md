@@ -30,3 +30,19 @@ cd ~/csp451/CheckPoint1/intro-to-get-lab
 
 3. Open the project with your code editor
 e.g VS Code, Github Desktop
+
+
+## Useful Git Commands  
+
+Git commands used in this project
+
+| Command       | Syntax                       | What it does                                              |
+|---------------|------------------------------|-----------------------------------------------------------|
+| git clone     | git clone <URL>              | Makes a local copy of a remote repository.                |
+| git add       | git add <filename>           | Stages changes (like added or modified files) for commit. |
+| git commit    | git commit -m "message"      | Saves your staged changes with a message explaining them. |
+| git push      | git push origin <branch>     | Uploads your commits to a remote repository.              |
+| git pull      | git pull                     | Brings in changes from the remote repository and merges them. |
+| git branch    | git branch                   | Lists all local branches, and shows which one you're on.  |
+| git status    | git status                   | Tells you which files have been changed or staged.        |
+| git checkout  | git checkout <branch>        | Switches to a different branch in your repo.              |
