@@ -26,7 +26,7 @@ Students will learn version control concepts, essential Git commands, GitHub rep
    git clone https://github.com/Ivanconcon/intro-to-git-lab
 
 2. Navigate to the project folder
-cd intro-to-get-lab
+cd ~/csp451/CheckPoint1/intro-to-get-lab
 
 3. Open the project with your code editor
 code .
